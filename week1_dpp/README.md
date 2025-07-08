@@ -1,1 +1,0 @@
-this folder contains my week1 hands-on.
